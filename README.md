@@ -6,6 +6,13 @@
 Quantitative researcher & developer building **AI-driven, multi-horizon trading systems** and the tooling that supports them.  
 My work blends market micro-structure modelling, reinforcement learning, stochastic calculus and rigorous risk management to squeeze insight out of noisy markets. :contentReference[oaicite:0]{index=0}
 
+## 📄 Research & Whitepapers
+I believe in grounding practical applications in solid theory. Here are some of the frameworks I've developed:
+- **Extended Geometric Information Framework Overview:** A conceptual model blending ideas from physics, differential geometry, and game theory to describe agents in dynamic environments.
+- **A Full Market Dynamics Model (Draft):** A formal mathematical system for modeling market environments with hierarchical rules, time-varying graphs, and multi-layered geometric surfaces.
+
+These will both be available under the **TMRW** repo within the next month(July/2025)
+
 ---
 
 ## 🚀 Pinned projects & what they do
@@ -42,6 +49,12 @@ My work blends market micro-structure modelling, reinforcement learning, stochas
 `Python | Jupyter | R | C++ | TensorFlow | PyTorch | CCXT | ARIMA/Prophet | Monte-Carlo sim | Reinforcement Learning (A2C, PPO)`  
 …and a healthy dose of ☕ & 📊.
 
+**In other words**
+Languages: Python, R, C++, SQL
+Machine Learning: TensorFlow, Keras, Scikit-learn, LightGBM, XGBoost, HMMlearn
+Data Science: Pandas, NumPy, SciPy, Statsmodels
+Data Visualization: Matplotlib, Seaborn
+
 ---
 
 ## ✈️ Why “COP-to-LON”?
@@ -57,10 +70,13 @@ The handle is the IATA route I fly to visit my partner — Copenhagen  →  Lond
 
 ---
 
+
 ## 🤝 Let’s connect
 
-[LinkedIn](https://www.linkedin.com/in/coptolon) •  
-Twitter (occasional market-structure threads) •  
-Email — check my commits’ `author` lines
+[LinkedIn](https://www.linkedin.com/in/coptolon) 
+Email: mark@brezina.dk
+
+Feel free to reach out if you'd like to collaborate or chat about quantitative finance and AI!
 
 <!-- End of README -->
+
