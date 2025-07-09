@@ -39,8 +39,8 @@ These will both be available under the **TMRW** repo within the next month(July/
   </tr>
 </table>
 
-<sup>The Strategy AI layer leans on the classical Avellaneda–Stoikov market-making model for optimal bid/ask placement. :contentReference[oaicite:6]{index=6}</sup>  
-<sup>Diagrams pulled straight from `TMRW/util` so they stay up-to-date with the code base. :contentReference[oaicite:7]{index=7}</sup>
+<sup>The Strategy AI layer leans on the classical Avellaneda–Stoikov market-making model for optimal bid/ask placement. </sup>  
+<sup>Diagrams pulled straight from `TMRW/util` so they stay up-to-date with the code base. </sup>
 
 ---
 
