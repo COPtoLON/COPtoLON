@@ -50,11 +50,11 @@ These will both be available under the **TMRW** repo within the next month(July/
 `Python | Jupyter | R | C++ | TensorFlow | PyTorch | CCXT | ARIMA/Prophet | Monte-Carlo sim | Reinforcement Learning (A2C, PPO)`  
 …and a healthy dose of ☕ & 📊.
 
-**In other words**
-Languages: Python, R, C++, SQL
-Machine Learning: TensorFlow, Keras, Scikit-learn, LightGBM, XGBoost, HMMlearn
-Data Science: Pandas, NumPy, SciPy, Statsmodels
-Data Visualization: Matplotlib, Seaborn
+**In other words** \
+Languages: Python, R, C++, SQL \
+Machine Learning: TensorFlow, Keras, Scikit-learn, LightGBM, XGBoost, HMMlearn \
+Data Science: Pandas, NumPy, SciPy, Statsmodels \
+Data Visualization: Matplotlib, Seaborn 
 
 ---
 
@@ -74,9 +74,9 @@ The handle is the IATA route I fly to visit my partner — Copenhagen  →  Lond
 
 ## 🤝 Let’s connect
 
-[LinkedIn](https://www.linkedin.com/in/coptolon) 
-Email: mark@brezina.dk
-
+[LinkedIn](https://www.linkedin.com/in/coptolon)  \
+Email: mark@brezina.dk \
+\
 Feel free to reach out if you'd like to collaborate or chat about quantitative finance and AI!
 
 <!-- End of README -->
