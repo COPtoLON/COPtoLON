@@ -19,11 +19,12 @@ These will both be available under the **TMRW** repo within the next month(July/
 
 | Repo | TL;DR |
 |------|-------|
-| **TMRW** | A research-grade framework that chains **Risk AI, Stat AI, Strategy AI (RL)** and **Forecast AI** pods from sub-second market-making to macro-thematic positioning. |
+| **TMRW part 1** | A research-grade framework that chains **Risk AI, Stat AI, Strategy AI (RL)** and **Forecast AI** pods from sub-second market-making to macro-thematic positioning. |
+| **TMRW part 2** | Live-trading playground for a startup: state-detection logic, tactic selection and execution notes for medium-frequency crypto & equity strategies.  |
 | **Knowledgebase** | 890-commit compendium of books, papers & notebooks across quant finance, insurance, maths and ML — currently being reorganised into step-by-step walkthroughs.  |
 | **GoldenDice** | Micro toolkit that Monte-Carlo simulates Brownian, CIR and OU paths for pricing and stress-testing. Great sandbox for stochastic-process intuition.  |
 | **QPM** | A collection of Jupyter notebooks that prototype mean–variance optimisation, actuarial cash-flows and other portfolio-math basics.  |
-| **WTech** | Live-trading playground for a startup: state-detection logic, tactic selection and execution notes for medium-frequency crypto & equity strategies.  |
+
 
 ---
 
