@@ -4,7 +4,7 @@
 ## 👋  Hi — I’m **Mark Brezina** (@COPtoLON)
 
 Quantitative researcher & developer building **AI-driven, multi-horizon trading systems** and the tooling that supports them.  
-My work blends market micro-structure modelling, reinforcement learning, stochastic calculus and rigorous risk management to squeeze insight out of noisy markets. :contentReference[oaicite:0]{index=0}
+My work blends market micro-structure modelling, reinforcement learning, stochastic calculus and rigorous risk management to squeeze insight out of noisy markets. 
 
 ## 📄 Research & Whitepapers
 I believe in grounding practical applications in solid theory. Here are some of the frameworks I've developed:
@@ -19,11 +19,11 @@ These will both be available under the **TMRW** repo within the next month(July/
 
 | Repo | TL;DR |
 |------|-------|
-| **TMRW** | A research-grade framework that chains **Risk AI, Stat AI, Strategy AI (RL)** and **Forecast AI** pods from sub-second market-making to macro-thematic positioning. :contentReference[oaicite:1]{index=1} |
-| **Knowledgebase** | 890-commit compendium of books, papers & notebooks across quant finance, insurance, maths and ML — currently being reorganised into step-by-step walkthroughs. :contentReference[oaicite:2]{index=2} |
-| **GoldenDice** | Micro toolkit that Monte-Carlo simulates Brownian, CIR and OU paths for pricing and stress-testing. Great sandbox for stochastic-process intuition. :contentReference[oaicite:3]{index=3} |
-| **QPM** | A collection of Jupyter notebooks that prototype mean–variance optimisation, actuarial cash-flows and other portfolio-math basics. :contentReference[oaicite:4]{index=4} |
-| **WTech** | Live-trading playground for a startup: state-detection logic, tactic selection and execution notes for medium-frequency crypto & equity strategies. :contentReference[oaicite:5]{index=5} |
+| **TMRW** | A research-grade framework that chains **Risk AI, Stat AI, Strategy AI (RL)** and **Forecast AI** pods from sub-second market-making to macro-thematic positioning. |
+| **Knowledgebase** | 890-commit compendium of books, papers & notebooks across quant finance, insurance, maths and ML — currently being reorganised into step-by-step walkthroughs.  |
+| **GoldenDice** | Micro toolkit that Monte-Carlo simulates Brownian, CIR and OU paths for pricing and stress-testing. Great sandbox for stochastic-process intuition.  |
+| **QPM** | A collection of Jupyter notebooks that prototype mean–variance optimisation, actuarial cash-flows and other portfolio-math basics.  |
+| **WTech** | Live-trading playground for a startup: state-detection logic, tactic selection and execution notes for medium-frequency crypto & equity strategies.  |
 
 ---
 
